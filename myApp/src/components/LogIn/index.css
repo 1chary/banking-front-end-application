@@ -1,0 +1,10 @@
+.heading {
+    color: black;
+    font-size: 44px;
+}
+.log-in-container {
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://thumbs.dreamstime.com/b/login-concept-28963227.jpg");
+    background-size: cover;
+}
